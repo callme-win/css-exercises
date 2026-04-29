@@ -10,6 +10,7 @@ We have two images for you to style, each with two class names, where one of the
 The properties you need to add to each element are:
 
 - Make the element with both the `avatar` and `proportioned` classes 300 pixels wide. We want it to automatically retain its original square proportions, so don't hardcode in a pixel value for its height.
+**
 - Make the element with both the `avatar` and `distorted` classes 200 pixels wide, then make its height twice as big as its width (here you should hardcode in a pixel value).
 
 ## Desired Outcome
@@ -17,5 +18,17 @@ The properties you need to add to each element are:
 
 ### Self Check
 - Did you properly chain class selectors for each rule?
+tbh, naliligaw ako but i do understand na po; naka pag may dalawang classes na parehas ang unang words tulad ng avatar at magkaiba ang second words nila tulad ng proportioned at distorted.
+ class="avatar propotioned"
+ class="avatar distorted"
+ 
+kailangan na perahas lagyan ng .(period) ang parehong words ng class na yung para matarget ng tama ang class ng gustong baguhin.
+kung hind gagawin. hindi gagana ng tama ang code!
+ex ; 
+.avatar.proportion {
+    color; red:
+}
 - Does the `proportioned` image retain its original square proportions?
+yes, because we do not alter the height let it be automatic.
 - Does the `distorted` image end up looking squished and, well, distorted?
+yes, because we alter the height and width of the picture,that cause of the looking squished of the photo.
