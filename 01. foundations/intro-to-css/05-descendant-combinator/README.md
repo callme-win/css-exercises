@@ -15,4 +15,9 @@ The properties you need to add are:
 
 ### Self Check
 - Do the elements that contain the text "This should be styled" have the correct styles applied?
+yes sir!, i did by using/coding (.container p) this main na lahat ng p elements na nasa loob ng class container a maaapektohan ng code/styles na yun.
+
 - Do the elements that contain the text "This should be unstyled" have no styles applied?
+yep! they are not included or not affected by the style i code cause they are siblings and not descendant/under of the class container.
+
+
