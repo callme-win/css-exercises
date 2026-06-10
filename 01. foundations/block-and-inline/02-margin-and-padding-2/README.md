@@ -9,3 +9,4 @@ This one is a little nicer looking, and a little closer to something you might s
 Use this section to check your work. On _these_ projects, your goal isn't to attain 100% pixel perfection, but to use the tools you've learned to get relatively close to the desired output.
 
 - Just as a reference, the font size in the desired outcome image is 16px. Aim to replicate the image *within reason*.
+i didn't get it but i tried my best,and ended up checking the solution.
